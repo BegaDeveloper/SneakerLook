@@ -1,0 +1,24 @@
+.div-main {
+  background-image: url(../../../assets/images/bgimg.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -moz-box-shadow: 0 0 4px #ccc;
+  -webkit-box-shadow: 0 0 4px #ccc;
+  box-shadow: 0 0 4px #ccc;
+}
+
+.text {
+  text-align: center;
+  color: aliceblue;
+  text-shadow: 6px -4px 5px rgba(216, 216, 216, 0.83);
+}
+
+.text h1 {
+  font-size: 4em;
+}
+.text h2 {
+  font-size: 2em;
+}

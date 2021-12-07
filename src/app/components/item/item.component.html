@@ -1,0 +1,40 @@
+<div class="row mx-auto">
+  <div class="col-4">
+    <input
+      type="text"
+      placeholder="Search for more..."
+      class="form-control"
+      id="inpt"
+      [(ngModel)]="searchValue"
+    />
+
+    <div class="col-12 mt-3" id="main-card">
+      <div class="row" id="card" *ngFor="let p of items | filter: searchValue">
+        <div class="img-div">
+          <img [src]="p.image" alt="" width="250px" />
+        </div>
+        <div class="main">
+          <h4>{{ p.id }}. {{ p.name }}</h4>
+          <p>Price: ${{ p.price }}</p>
+          <small>{{ p.place }}</small
+          ><br />
+          <a
+            href="#"
+            [routerLink]="[
+              '/item',
+              p.id,
+              p.name,
+              p.date,
+              p.price,
+              p.desc,
+              p.image
+            ]"
+            ><button class="btn btn-warning" href="#">
+              <i class="fas fa-compress"></i></button
+          ></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-8"><router-outlet></router-outlet></div>
+</div>

@@ -1,0 +1,8 @@
+.imagee-div img {
+  width: 500px;
+  height: 300px;
+  border-radius: 50px;
+  -moz-box-shadow: 0 0 4px #ccc;
+  -webkit-box-shadow: 0 0 4px #ccc;
+  box-shadow: 0 0 4px #ccc;
+}

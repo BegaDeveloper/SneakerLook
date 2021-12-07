@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "New Balance 991",
+      "price": "120.00",
+      "place": "San Francisco, 5133",
+      "image": "../../assets/images/snkr1.jpg",
+      "date": "22.01.1999",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt minimaomnis adipisci consectetur fugiat quod vitae tempora. Rerum odionesciunt eligendi, laudantium tenetur laboriosam corporis molestiasquisquam harum? Doloremque, inventore?"
+    },
+    {
+      "id": 2,
+      "name": "Nike Air Max 2022",
+      "price": "220.00",
+      "place": "Austin TX, 1223",
+      "image": "../../assets/images/snkr2.jpg",
+      "date": "21.11.2022",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt minimaomnis adipisci consectetur fugiat quod vitae tempora. Rerum odionesciunt eligendi, laudantium tenetur laboriosam corporis molestiasquisquam harum? Doloremque, inventore?"
+    },
+    {
+      "id": 3,
+      "name": "Nike Air Force Denim",
+      "price": "150.00",
+      "place": "Houston, 3321",
+      "image": "../../assets/images/snkr3.jpg",
+      "date": "02.05.2020",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt minimaomnis adipisci consectetur fugiat quod vitae tempora. Rerum odionesciunt eligendi, laudantium tenetur laboriosam corporis molestiasquisquam harum? Doloremque, inventore?"
+    },
+    {
+      "id": 4,
+      "name": "Jordan 11",
+      "price": "339.00",
+      "place": "DC, 1010",
+      "image": "../../assets/images/snkr4.jpg",
+      "date": "01.01.2019",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt minimaomnis adipisci consectetur fugiat quod vitae tempora. Rerum odionesciunt eligendi, laudantium tenetur laboriosam corporis molestiasquisquam harum? Doloremque, inventore?"
+    },
+    {
+      "id": 5,
+      "name": "Nike Air Max Pink",
+      "price": "239.00",
+      "place": "Oregon, 9935",
+      "image": "../../assets/images/snk6.jpg",
+      "date": "23.04.2021",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt minimaomnis adipisci consectetur fugiat quod vitae tempora. Rerum odionesciunt eligendi, laudantium tenetur laboriosam corporis molestiasquisquam harum? Doloremque, inventore?"
+    },
+    {
+      "id": 6,
+      "name": "Jordan 1 2020",
+      "price": "200.00",
+      "place": "Miami, 3521",
+      "image": "../../assets/images/snkr7.jpg",
+      "date": "10.10.2020",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt minimaomnis adipisci consectetur fugiat quod vitae tempora. Rerum odionesciunt eligendi, laudantium tenetur laboriosam corporis molestiasquisquam harum? Doloremque, inventore?"
+    },
+    {
+      "id": 7,
+      "name": "Nike Air Max BRW",
+      "price": "210.00",
+      "place": "LA, 1111",
+      "image": "../../assets/images/snkr8.jpg",
+      "date": "01.12.2020",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt minimaomnis adipisci consectetur fugiat quod vitae tempora. Rerum odionesciunt eligendi, laudantium tenetur laboriosam corporis molestiasquisquam harum? Doloremque, inventore?"
+    },
+    {
+      "id": 8,
+      "name": "Jordan 1 Retro",
+      "price": "799.00",
+      "place": "New Yord, 7381",
+      "image": "../../assets/images/snkr9.jpg",
+      "date": "13.12.1989",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt minimaomnis adipisci consectetur fugiat quod vitae tempora. Rerum odionesciunt eligendi, laudantium tenetur laboriosam corporis molestiasquisquam harum? Doloremque, inventore?"
+    }
+  ]
+}
